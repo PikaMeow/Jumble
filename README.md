@@ -10,3 +10,11 @@
 
 《UNIX编程》课程的几次课后作业。主要是在unix环境下实现一些基本的操作，例如文件的复制等。
 
+### CSAPP Chapter2 Homework
+
+阅读《CSAPP》后Chapter 2的课后习题。主要包含：仅使用位运算来完成一些与比特位相关的操作。
+
+### Learning TensorFlow
+
+学习TensorFlow时，找到的一些Tutorial。
+
